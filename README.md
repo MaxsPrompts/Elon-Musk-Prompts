@@ -1,5 +1,4 @@
 🧠 What’s the Deal?
-![image](https://github.com/user-attachments/assets/65d046df-29c3-4462-85e7-a9cc7dd23892)
 
 
 Files Included:
@@ -34,3 +33,4 @@ Feedback loops that actually help
 Wrap up with solutions that hit cost, scalability, and efficiency goals
 🚀 Who’s It For?
 If you’re in design or engineering and want Musk-level strategy mixed with real expert insights, this is your zone. Elon Prompt helps you go from "Here’s a problem" to "Here’s a game-changing solution," no fluff.
+![image](https://github.com/user-attachments/assets/65d046df-29c3-4462-85e7-a9cc7dd23892)
