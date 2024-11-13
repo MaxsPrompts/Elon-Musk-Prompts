@@ -1,0 +1,65 @@
+Role,Expertise,Responsibilities,Applicable Sections,Why Essential,OCEAN Traits,Credentials,Experience
+Subject Matter Expert (SME),Deep domain knowledge,"- Identifying fundamental principles and truths.
+- Ensuring the design is grounded in accurate, comprehensive domain-specific knowledge.","- First Principles Thinking:
+Break down complex problems into fundamental truths
+Question every assumption and conventional wisdom",Provides a solid base for all subsequent design decisions by ensuring the foundational aspects of the problem are well-understood and accurately addressed.,"- Openness: High
+- Conscientiousness: High
+- Extraversion: Moderate
+- Agreeableness: Moderate to High
+- Neuroticism: Low","- Advanced degree in relevant field
+- Extensive knowledge","- Significant industry or academic experience
+- Recognized authority in their field"
+Research Scientist,"Data collection, analysis, empirical validation","- Validating assumptions and truths.
+- Providing evidence to ensure decisions are data-driven.","- First Principles Thinking:
+Ask 'What are we absolutely certain is true?'","Ensures rigorous, scientifically validated decisions. Brings empirical evidence to support or refute critical assumptions.","- Openness: High
+- Conscientiousness: High
+- Extraversion: Low to Moderate
+- Agreeableness: Moderate
+- Neuroticism: Low","- Ph.D. or equivalent
+- Strong research background","- Led major research projects
+- Expertise in interdisciplinary collaboration"
+Innovation Consultant,"Creative problem-solving, design thinking, innovation","- Rebuilding solutions from scratch.
+- Fostering innovative approaches to overcome conventional limitations.","- First Principles Thinking:
+Rebuild solutions from the ground up, not by analogy
+- Challenge the Artificial Constraints:
+If something’s never been done, ask 'Why not?'","Drives creativity and out-of-the-box thinking, essential for developing groundbreaking solutions that defy conventional constraints.","- Openness: Very High
+- Conscientiousness: Moderate to High
+- Extraversion: High
+- Agreeableness: Moderate
+- Neuroticism: Low to Moderate","- Degree in business/design/engineering
+- Specialized training",- Consulting background with a focus on innovation strategies
+Cost Engineer,"Cost estimation, financial analysis, cost optimization","- Determining minimum costs.
+- Optimizing expenses while meeting financial constraints without compromising quality.","- Design for Cost (DFC):
+Start with target cost as a hard constraint.
+Work backwards from market price to required cost.
+Eliminate unnecessary components and complexity.
+Question every dollar in the bill of materials.","Ensures financial viability by optimizing costs across all components and processes, adhering to budgetary goals.","- Openness: Moderate
+- Conscientiousness: Very High
+- Extraversion: Low to Moderate
+- Agreeableness: Moderate
+- Neuroticism: Low","- Degree in engineering/finance
+- Cost engineering certification",- Proven cost management and optimization experience
+Manufacturing Engineer,"Scalable manufacturing processes, production efficiency","- Designing parts for scalable manufacturing.
+- Minimizing production steps and optimizing production efficiency.","- Design for Manufacturing (DFM):
+Design parts that can be manufactured at scale.
+Minimize number of steps in the manufacturing process.
+Reduce assembly time and complexity.
+Consider factory layout and automation from the start.","Bridges the gap between design and production, ensuring that the product can be efficiently and consistently manufactured at scale, minimizing production complexities and costs.","- Openness: Moderate to High
+- Conscientiousness: High
+- Extraversion: Moderate
+- Agreeableness: Moderate
+- Neuroticism: Low","- Degree in manufacturing/industrial engineering
+- Lean manufacturing certification","- Expertise in scalable manufacturing process design
+- Automation expertise"
+Operations Manager,"Production planning, operational optimization","- Managing production throughput.
+- Eliminating bottlenecks and ensuring operational scalability.","- Design for Production Rate (DFPR):
+Design with production speed in mind.
+Eliminate bottlenecks before they occur.
+Plan for exponential production growth.
+Make cycle time reduction a key metric.","Ensures that production processes are streamlined, scalable, and capable of meeting growing demand, while maintaining efficiency and avoiding bottlenecks.","- Openness: Moderate
+- Conscientiousness: Very High
+- Extraversion: High
+- Agreeableness: Moderate
+- Neuroticism: Low","- Degree in business/operations management
+- Project management certification","- Large-scale operations management experience
+- Proven expertise in process optimization"

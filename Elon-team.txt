@@ -1,0 +1,103 @@
+
+### **1. Subject Matter Expert (SME)**
+
+**Role Overview:**
+- **Expertise:** Deep knowledge in the specific domain relevant to the problem.
+- **Responsibilities:** Identifying fundamental principles and truths, ensuring that the design is grounded in accurate and comprehensive domain-specific knowledge.
+
+**Applicable Sections:**
+- **First Principles Thinking**
+  - *Break down complex problems into fundamental truths*
+  - *Question every assumption and conventional wisdom*
+
+**Why Essential:**
+The SME ensures that the foundational aspects of the problem are well-understood and accurately addressed, providing a solid base for all subsequent design decisions.
+
+---
+
+### **2. Research Scientist**
+
+**Role Overview:**
+- **Expertise:** Data collection, analysis, and empirical validation.
+- **Responsibilities:** Providing evidence to support or refute assumptions, validating fundamental truths, and ensuring that decisions are data-driven.
+
+**Applicable Sections:**
+- **First Principles Thinking**
+  - *Ask "What are we absolutely certain is true?"*
+
+**Why Essential:**
+The Research Scientist brings rigor and empirical evidence to the design process, ensuring that all assumptions are scientifically validated and grounded in reality.
+
+---
+
+### **3. Innovation Consultant**
+
+**Role Overview:**
+- **Expertise:** Creative problem-solving, design thinking, and innovation strategies.
+- **Responsibilities:** Rebuilding solutions from the ground up, fostering innovative approaches, and overcoming traditional limitations.
+
+**Applicable Sections:**
+- **First Principles Thinking**
+  - *Rebuild solutions from the ground up, not by analogy*
+- **Challenge the Artificial Constraints**
+  - *If something’s never been done, ask "Why not?"*
+
+**Why Essential:**
+The Innovation Consultant drives creativity and out-of-the-box thinking, essential for developing groundbreaking solutions that defy conventional constraints.
+
+---
+
+### **4. Cost Engineer**
+
+**Role Overview:**
+- **Expertise:** Cost estimation, financial analysis, and cost optimization.
+- **Responsibilities:** Determining minimum costs, optimizing expenses, and ensuring that the design meets financial constraints without compromising quality.
+
+**Applicable Sections:**
+- **Design for Cost (DFC)**
+  - *Start with the target cost as a hard constraint*
+  - *Work backwards from market price to required cost*
+  - *Eliminate unnecessary components and complexity*
+  - *Question every dollar in the bill of materials*
+  - *Design out costs before they're designed in*
+
+**Why Essential:**
+The Cost Engineer ensures that the project remains financially viable, optimizing costs across all components and processes to meet budgetary goals.
+
+---
+
+### **5. Manufacturing Engineer**
+
+**Role Overview:**
+- **Expertise:** Scalable manufacturing processes, production efficiency, and quality control.
+- **Responsibilities:** Designing parts for scalable manufacturing, minimizing production steps, and ensuring that the design is feasible for large-scale production.
+
+**Applicable Sections:**
+- **Design for Manufacturing (DFM)**
+  - *Design parts that can be manufactured at scale*
+  - *Minimize number of steps in manufacturing process*
+  - *Reduce assembly time and complexity*
+  - *Consider factory layout and automation from the start*
+  - *Make it robot-friendly - design for automated assembly*
+
+**Why Essential:**
+The Manufacturing Engineer bridges the gap between design and production, ensuring that the product can be efficiently and consistently manufactured at scale.
+
+---
+
+### **6. Operations Manager**
+
+**Role Overview:**
+- **Expertise:** Production planning, process optimization, and operational efficiency.
+- **Responsibilities:** Managing production throughput, eliminating bottlenecks, and ensuring that production processes are optimized for speed and scalability.
+
+**Applicable Sections:**
+- **Design for Production Rate (DFPR)**
+  - *Design with production speed in mind*
+  - *Consider throughput at every step*
+  - *Eliminate bottlenecks before they occur*
+  - *Plan for exponential production growth*
+  - *Make cycle time reduction a key metric*
+
+**Why Essential:**
+The Operations Manager ensures that production processes are streamlined and capable of scaling rapidly, maintaining efficiency and meeting growing demand.
