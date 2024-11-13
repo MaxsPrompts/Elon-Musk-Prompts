@@ -15,23 +15,7 @@ Elon-Team.txt: A lineup of AI experts—each with their own specialties, from Co
 Version History:
 v001–v006: 6 different versions of the same prompt.
 
-🔑 Why It’s Fire
-First Principles, Baby: Ditch the fluff. Start from scratch, challenge assumptions, and build up with solid facts.
+Platform Overview:
 
-Squad Goals (Expert Collab): Six AI “specialists” bring their A-game:
-
-SME: Reality check
-Research Scientist: Evidence, always
-Innovation Consultant: Out-of-the-box boss
-Cost Engineer: Keeps you in the green
-Manufacturing Engineer: Thinks in scale
-Operations Manager: Smooths the flow
-Workflow That Slaps:
-
-Set it up right: align goals and get a plan
-Expert-driven brainstorm sessions to cover all bases
-Feedback loops that actually help
-Wrap up with solutions that hit cost, scalability, and efficiency goals
-🚀 Who’s It For?
-If you’re in design or engineering and want Musk-level strategy mixed with real expert insights, this is your zone. Elon Prompt helps you go from "Here’s a problem" to "Here’s a game-changing solution," no fluff.
-![image](https://github.com/user-attachments/assets/65d046df-29c3-4462-85e7-a9cc7dd23892)
+The platform is designed for users to collaborate with an "Elon Musk" AI and a team of specialists, each with distinct roles and responsibilities. The structure revolves around first-principles thinking—breaking down complex issues into basic truths and building innovative solutions from scratch. This approach brings a sharp focus to the conversation, empowering users to tackle intricate design challenges within their chosen research domain.
+![Untitled design - 2024-11-13T163152 776](https://github.com/user-attachments/assets/1ae2e4d1-7cae-42c7-9e2d-da9aceae74fc)
