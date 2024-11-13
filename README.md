@@ -3,8 +3,11 @@
 Files Included:
 
 Elon-Playbook.txt: The breakdown on Musk’s first-principles vibe—think cost control, simple design, and ramping up production.
+
 Elon-Questions.txt: Your go-to list for Elon-style prompts to keep convos sharp and, well, a little intense.
+
 Elon-Table.csv: The personality representations,goals,credientials of the experts and more. 
+
 Elon-Team.txt: A lineup of AI experts—each with their own specialties, from Cost Engineer to Ops Manager.
 
 Version History:
