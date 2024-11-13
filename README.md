@@ -1,5 +1,6 @@
 🧠 What’s the Deal?
 
+FULL ARTICLE: https://open.substack.com/pub/planeeasy/p/the-elon-musk-ai-prompt-for-design?r=41zvgq&utm_campaign=post&utm_medium=web
 
 Files Included:
 
