@@ -1,4 +1,6 @@
 🧠 What’s the Deal?
+![image](https://github.com/user-attachments/assets/65d046df-29c3-4462-85e7-a9cc7dd23892)
+
 
 Files Included:
 
